@@ -5,7 +5,7 @@
 <style>
 
 p {
-	font-family: "Verdana";
+	font-family: Verdana, Geneva, sans-serif;
 }
 
 body {
