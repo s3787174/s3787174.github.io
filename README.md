@@ -4,6 +4,10 @@
 </head>
 <style>
 
+p {
+	font-family: "Verdana";
+}
+
 body {
 background-color:#BBFFC5;
 }
